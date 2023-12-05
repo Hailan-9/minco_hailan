@@ -1,0 +1,13 @@
+{
+  "files.associations": {
+    "cfloat": "cpp",
+    "core": "cpp",
+    "complex": "cpp",
+    "algorithm": "cpp",
+    "any": "cpp",
+    "bitset": "cpp",
+    "memory": "cpp",
+    "random": "cpp",
+    "optional": "cpp"
+  }
+}
